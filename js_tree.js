@@ -5,8 +5,8 @@
    Tutorial 12
    Case Problem 3
 
-   Author: 
-   Date:   
+   Author: Micah Fischer
+   Date:   4-1-19
 
    Filename: js_tree.js
 
